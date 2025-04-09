@@ -25,6 +25,8 @@ Se usa para verificar la integridad de archivos, comparando los valores hash par
 * **HxD Setup:** Es un editor hexadecimal gratuito que permite visualizar y editar archivos binarios.
 Se emplea para analizar, editar o reparar archivos a bajo nivel, muy útil para investigaciones forenses que requieren trabajar directamente sobre estructuras de datos.
 
+  ![ftk_image/](imgs/HxD.png)
+
 * [**Eric Zimmerman's Tool:**](https://ericzimmerman.github.io/#!index.md) Es un conjunto de utilidades forenses gratuitas desarrolladas por Eric Zimmerman, enfocadas en el análisis de artefactos de Windows.
 Estas herramientas permiten examinar registros, archivos de Prefetch, datos de navegación, registros de actividad de usuario y otros artefactos críticos en investigaciones forenses. Son altamente especializadas y optimizadas para el procesamiento eficiente de grandes volúmenes de evidencia.
 
