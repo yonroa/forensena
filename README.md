@@ -8,6 +8,9 @@ Se utiliza para capturar evidencia digital sin alterar los datos originales, fac
 * [**Autopsy:**](https://www.autopsy.com/download/) Plataforma de análisis forense de código abierto basada en The Sleuth Kit.
 Permite investigar discos, analizar sistemas de archivos, recuperar archivos eliminados, y extraer artefactos de interés como historiales de navegación, correos electrónicos y más.
 
+> [!NOTE]
+> Aunque las herramientas 'FTK IMAGER' y 'Autopsy' son Open Source, se requiere de crear una cuenta en sus respectivas paginas para su descarga.
+
 * **USB Write Blocker:** Es un software que impide la escritura en dispositivos de almacenamiento USB.
 Se utiliza para garantizar que los dispositivos de almacenamiento se examinen de manera segura, evitando cualquier alteración o daño a la evidencia original.
 
@@ -19,3 +22,6 @@ Se emplea para analizar, editar o reparar archivos a bajo nivel, muy útil para 
 
 * [**Eric Zimmerman's Tool:**](https://ericzimmerman.github.io/#!index.md) Es un conjunto de utilidades forenses gratuitas desarrolladas por Eric Zimmerman, enfocadas en el análisis de artefactos de Windows.
 Estas herramientas permiten examinar registros, archivos de Prefetch, datos de navegación, registros de actividad de usuario y otros artefactos críticos en investigaciones forenses. Son altamente especializadas y optimizadas para el procesamiento eficiente de grandes volúmenes de evidencia.
+
+> [!NOTE]
+> Las herramientas dadas por Eric Zimmerman solo estan disponibles para sistemas operativos Windows.
