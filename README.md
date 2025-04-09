@@ -15,7 +15,7 @@ Permite investigar discos, analizar sistemas de archivos, recuperar archivos eli
 * **USB Write Blocker:** Es un software que impide la escritura en dispositivos de almacenamiento USB.
 Se utiliza para garantizar que los dispositivos de almacenamiento se examinen de manera segura, evitando cualquier alteración o daño a la evidencia original.
 
-
+    ![ftk_image/](USBblocker)
 
 * **HashTab:** Software que integra el cálculo de hash (MD5, SHA-1, SHA-256, etc.) en las propiedades de archivos del sistema operativo.
 Se usa para verificar la integridad de archivos, comparando los valores hash para asegurar que no han sido modificados.
