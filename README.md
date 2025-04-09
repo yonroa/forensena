@@ -35,3 +35,9 @@ Estas herramientas permiten examinar registros, archivos de Prefetch, datos de n
 
 > [!NOTE]
 > Las herramientas dadas por Eric Zimmerman solo estan disponibles para sistemas operativos Windows.
+
+* **Practica Forense (CTF)**: Aca puedes ver sitios donde puedes practicar forense y volverse un esperto en las herramientas forenses, ejemplo: Autopsy.\
+https://cfreds.nist.gov/</br>
+https://digitalcorpora.org/</br>
+https://cfreds-archive.nist.gov/data_leakage_case/data-leakage-case.html/<br>
+https://www.oas.org/juridico/spanish/cyber/cyb40_imaging_sp.pdf/<br>
