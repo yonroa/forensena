@@ -20,6 +20,8 @@ Se utiliza para garantizar que los dispositivos de almacenamiento se examinen de
 * **HashTab:** Software que integra el cálculo de hash (MD5, SHA-1, SHA-256, etc.) en las propiedades de archivos del sistema operativo.
 Se usa para verificar la integridad de archivos, comparando los valores hash para asegurar que no han sido modificados.
 
+  ![ftk_image/](imgs/hastab.png)
+
 * **HxD Setup:** Es un editor hexadecimal gratuito que permite visualizar y editar archivos binarios.
 Se emplea para analizar, editar o reparar archivos a bajo nivel, muy útil para investigaciones forenses que requieren trabajar directamente sobre estructuras de datos.
 
