@@ -14,8 +14,8 @@ Se utiliza para garantizar que los dispositivos de almacenamiento se examinen de
 * **HashTab:** Software que integra el cálculo de hash (MD5, SHA-1, SHA-256, etc.) en las propiedades de archivos del sistema operativo.
 Se usa para verificar la integridad de archivos, comparando los valores hash para asegurar que no han sido modificados.
 
-* **PECmd (Eric Zimmerman):** Herramienta de línea de comandos creada por Eric Zimmerman que analiza archivos Prefetch en Windows.
-Permite extraer información sobre la ejecución de programas en un sistema, lo que ayuda en la reconstrucción de la actividad del usuario.
-
 * **HxD Setup:** Es un editor hexadecimal gratuito que permite visualizar y editar archivos binarios.
 Se emplea para analizar, editar o reparar archivos a bajo nivel, muy útil para investigaciones forenses que requieren trabajar directamente sobre estructuras de datos.
+
+* [**Eric Zimmerman's Tool:**](https://ericzimmerman.github.io/#!index.md) Es un conjunto de utilidades forenses gratuitas desarrolladas por Eric Zimmerman, enfocadas en el análisis de artefactos de Windows.
+Estas herramientas permiten examinar registros, archivos de Prefetch, datos de navegación, registros de actividad de usuario y otros artefactos críticos en investigaciones forenses. Son altamente especializadas y optimizadas para el procesamiento eficiente de grandes volúmenes de evidencia.
