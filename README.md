@@ -2,10 +2,10 @@
 Este repositorio documenta algunas herramientas esenciales en el análisis forense digital, útiles para la adquisición, preservación, análisis y verificación de evidencia.
 
 # Herramientas
-* **FTK Imager:** Herramienta de adquisición forense por software que permite crear imágenes exactas de discos duros, dispositivos extraíbles o carpetas específicas.
+* [**FTK Imager:**](https://www.exterro.com/ftk-product-downloads/ftk-imager-4-7-3-81) Herramienta de adquisición forense por software que permite crear imágenes exactas de discos duros, dispositivos extraíbles o carpetas específicas.
 Se utiliza para capturar evidencia digital sin alterar los datos originales, facilitando también una vista preliminar de los archivos y sistemas de archivos.
 
-* **Autopsy:** Plataforma de análisis forense de código abierto basada en The Sleuth Kit.
+* [**Autopsy:**](https://www.autopsy.com/download/) Plataforma de análisis forense de código abierto basada en The Sleuth Kit.
 Permite investigar discos, analizar sistemas de archivos, recuperar archivos eliminados, y extraer artefactos de interés como historiales de navegación, correos electrónicos y más.
 
 * **USB Write Blocker:** Es un software que impide la escritura en dispositivos de almacenamiento USB.
