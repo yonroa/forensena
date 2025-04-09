@@ -8,7 +8,6 @@ Se utiliza para capturar evidencia digital sin alterar los datos originales, fac
 * [**Autopsy:**](https://www.autopsy.com/download/) Plataforma de análisis forense de código abierto basada en The Sleuth Kit.
 Permite investigar discos, analizar sistemas de archivos, recuperar archivos eliminados, y extraer artefactos de interés como historiales de navegación, correos electrónicos y más.
 
-![autopsy](imgs/autopsy.png)
 
 * **USB Write Blocker:** Es un software que impide la escritura en dispositivos de almacenamiento USB.
 Se utiliza para garantizar que los dispositivos de almacenamiento se examinen de manera segura, evitando cualquier alteración o daño a la evidencia original.
